@@ -215,6 +215,15 @@ efficiency and public awareness.
 
 
 
+
+	
+
+
+
+
+
+
+
 **Phase 2**
 
 Enhancing Smart Water Fountain Using
@@ -342,6 +351,18 @@ Provide guidelines for regular maintenance and
 troubleshooting.
 
 Establish customer support channels for user assistance.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
